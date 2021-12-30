@@ -12,7 +12,7 @@
   - 💼 On the look out for  Software Engineering Internship opportunities starting January 2022.
   - ⚡ Fun facts: 
     - I ♥️: 📚:s and 🎥:s
-    - Ich habe ein bißen Deutsch gelernt. 💬
+    - Always love to learn new things. 💬
   - 🎯 In the near future I plan to ...
     -  Get better at solving leetcode problems 😃
   - 🤞 One day I hope to...
