@@ -18,6 +18,7 @@
   - 🤞 One day I hope to...
     - Write my own blog!
     - Learn UI/UX Design ( Photoshop, Illustrator,Figma and the likes)
+    - Learn video editing software tools and styles.
 
 </em>
 
