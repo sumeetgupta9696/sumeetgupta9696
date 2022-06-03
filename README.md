@@ -1,11 +1,11 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Sumeet Gupta </h2>
+<h2> Hi, I’m Sumeet Gupta </h2>
 
 [![Linkedin: Sumeet Gupta](https://img.shields.io/badge/-Sumeet_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumeet-m-gupta/)](https://www.linkedin.com/in/sumeet-m-gupta/)
 [![Gmail Badge](https://img.shields.io/badge/-Sumeet_Gupta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sumeetgupta6996@gmail.com)](mailto:sumeetgupta6996@gmail.com)
 
 <p><em>I'm a rookie community driven technologist (currently pursuing my Master’s Degree in Software Engineering from SJSU <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">) aspiring to really understand and empathize with information problems being faced by communities before diving into solving them.</em></p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> A little more about me... <em>
+### A little more about me... <em>
   
    
   - 👀 I’m interested in Full Stack Web Development.
